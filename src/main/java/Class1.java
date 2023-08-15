@@ -7,5 +7,6 @@ public class Class1 {
         System.out.println("ttt");
         System.out.println("sda");
         System.out.println("ddd");
+        System.out.println("asdasdsad");
     }
 }
